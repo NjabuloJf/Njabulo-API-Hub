@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner or Logo -->
-<img src="https://raw.githubusercontent.com/NjabuloJf/njabulo-data/main/njabuloimg/njabuloimg.png" alt="Njabulo API Hub" width="200" style="border-radius: 50%;" />
+<img src="https://raw.githubusercontent.com/NjabuloJf/njabulo-data/main/njabuloimg/api.png" alt="Njabulo API Hub" width="200" style="border-radius: 50%;" />
 
 # 🚀 Njabulo API Hub
 
